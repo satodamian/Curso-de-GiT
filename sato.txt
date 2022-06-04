@@ -1,2 +1,4 @@
 Hola mi nombre es Santiago, tengo 23 años, estudio la carrera de Ingenieria de Sistemas y mi apodo es Wachin
 Estudio el lenguaje JS, PHP y CSS
+
+Estoy con Eliana
